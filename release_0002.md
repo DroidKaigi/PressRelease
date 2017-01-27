@@ -22,8 +22,8 @@ Shibuya.apkなどの中小規模な勉強会とは違って、有名なブログ
 ### ■カンファレンス概要
 カンファレンス名：DroidKaigi  
 開催日時：2017年3月9日（木）、10日（金）  
-開催場所：東京都新宿区西新宿8-17-1 (住友不動産新宿グランドタワー5F )
-参加料：8000円～
-申し込み方法：https://droidkaigi.connpass.com/event/43942/
-URL：https://droidkaigi.github.io/
+開催場所：東京都新宿区西新宿8-17-1 (住友不動産新宿グランドタワー5F )  
+参加料：8000円～  
+申し込み方法：https://droidkaigi.connpass.com/event/43942/  
+URL：https://droidkaigi.github.io/  
 問い合わせ窓口：info@droidkaigi.jp  
